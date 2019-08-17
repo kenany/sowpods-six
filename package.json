@@ -28,6 +28,6 @@
     "@kenan/renovate-config": "1.1.1",
     "eslint": "5.16.0",
     "lodash.isarray": "4.0.0",
-    "tape": "4.10.2"
+    "tape": "4.11.0"
   }
 }
