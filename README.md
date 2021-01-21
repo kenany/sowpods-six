@@ -1,7 +1,5 @@
 # sowpods-six
 
-[![Build Status](https://img.shields.io/travis/KenanY/sowpods-six.svg)](https://travis-ci.org/KenanY/sowpods-six)
-
 6-letter words in [SOWPODS](https://en.wikipedia.org/wiki/SOWPODS).
 
 ## Example
