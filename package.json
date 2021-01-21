@@ -28,7 +28,7 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "8.0.0",
+    "@kenan/eslint-config": "^8.0.4",
     "@kenan/renovate-config": "^1.5.0",
     "eslint": "^7.18.0",
     "lodash.isarray": "4.0.0",
