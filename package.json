@@ -30,6 +30,6 @@
   "devDependencies": {
     "@kenan/eslint-config": "^9.0.4",
     "eslint": "^7.32.0",
-    "tape": "^5.6.0"
+    "tape": "^5.6.1"
   }
 }
