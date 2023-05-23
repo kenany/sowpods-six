@@ -5,7 +5,7 @@
 ## Example
 
 ``` javascript
-var sowpodsSix = require('sowpods-six');
+const sowpodsSix = require('sowpods-six');
 // => [
 // =>   'aahing',
 // =>   'aaliis',
@@ -26,7 +26,7 @@ $ npm install sowpods-six
 ## API
 
 ``` javascript
-var sowpodsSix = require('sowpods-six');
+const sowpodsSix = require('sowpods-six');
 ```
 
 ### `sowpodsSix`
