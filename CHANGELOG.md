@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/kenany/sowpods-six/compare/2.0.0...3.0.0) (2023-09-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([fc265d4](https://github.com/kenany/sowpods-six/commit/fc265d44a0acc0093c899bf4e89e3d990b483a10))
+
 ## [2.0.0](https://github.com/KenanY/sowpods-six/compare/1.0.0...2.0.0) (2023-05-23)
 
 
